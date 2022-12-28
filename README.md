@@ -22,10 +22,16 @@ As the problem statement says the main objective is to predict whether the patie
 The whole project was done using python, in google collaborator. Following libraries were used for analyzing the data and visualizing: 
 
 ● Pandas: Extensively used to load and wrangle with the dataset. 
+
 ● Matplotlib: Used for visualization. 
+
 ● Seaborn: Used for visualization. 
+
 ● Warnings: For filtering and ignoring warnings. 
+
 ● Numpy: For some math operations in predictions. 
-● Sklearn: For analysis and prediction. 
+
+● Sklearn: For analysis and prediction.
+
 ● Stats models: For outliers influence. 
 
